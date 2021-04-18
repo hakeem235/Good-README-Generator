@@ -21,7 +21,7 @@ To run the app user have to open the integrated terminal and write node index.js
 # Video Link
 
  You can view a demo of the generator by following the link
- [https://youtu.be/UQ9oG5NjWJg](https://youtu.be/UQ9oG5NjWJg)
+ [https://youtu.be/hDt4QGF7GBk](https://youtu.be/hDt4QGF7GBk)
 
 # Screenshots
 
