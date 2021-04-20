@@ -28,4 +28,4 @@ To run the app user have to open the integrated terminal and write node index.js
 ![screenShot of the readme file ](img/readme.png)
 
 # Github-repob 
-[link](https://github.com/hakeem235/Professional-README-Generator)
+[link](https://github.com/hakeem235/Good-README-Generator)
